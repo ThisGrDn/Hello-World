@@ -10,4 +10,4 @@
 ***
 
 ### 우리집 막내 설이 입니다. 💖
-![스마일](https://github.com/ThisGrDn/Hello-World/blob/master/%EC%84%A4%EC%9D%B4%EB%B9%B5%EA%B8%8B.jpg)<img width= "50%" height = "50"></img>
+!<img src="https://github.com/ThisGrDn/Hello-World/blob/master/%EC%84%A4%EC%9D%B4%EB%B9%B5%EA%B8%8B.jpg"width= "50%" height = "50"></img>
