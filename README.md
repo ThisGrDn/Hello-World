@@ -13,11 +13,12 @@
 좋아하는음식 | 좋아하는가수 | 취미
 ----------- | ----------- | ----
 된장찌개 | 아이유 | 요리
-김치찌개 | 한요한 | 쇼핑
+케이크 | 한요한 | 쇼핑
 피자 | 마마무 | 게임
+
 ***
 
 ### 우리집 막내 설이 입니다. 💖
 * __설이 사진__
-<img src="https://github.com/ThisGrDn/Hello-World/blob/master/%EC%84%A4%EC%9D%B4%EB%B9%B5%EA%B8%8B.jpg" width= "50%" height = "50%"></img>
+* <img src="https://github.com/ThisGrDn/Hello-World/blob/master/%EC%84%A4%EC%9D%B4%EB%B9%B5%EA%B8%8B.jpg" width= "50%" height = "50%"></img>
 * [설이 유튜브](https://www.youtube.com/channel/UCfKNKClY1GnAKsiLxTMsuqQ)
